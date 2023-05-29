@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "fmt" //importing a package
 
 func main() {
-	fmt.Println("Hello World")
-}
+	fmt.Println("Hello World!")
+} //exiting the program
